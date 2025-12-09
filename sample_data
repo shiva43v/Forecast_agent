@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"date": "2025-01-01", "sku": "SKU101", "sales": 120, "current_stock": 500},
+    {"date": "2025-01-02", "sku": "SKU101", "sales": 140, "current_stock": 500},
+    {"date": "2025-01-03", "sku": "SKU101", "sales": 130, "current_stock": 500},
+    {"date": "2025-01-04", "sku": "SKU101", "sales": 150, "current_stock": 500},
+    {"date": "2025-01-05", "sku": "SKU101", "sales": 160, "current_stock": 500},
+    {"date": "2025-01-01", "sku": "SKU202", "sales": 80, "current_stock": 300},
+    {"date": "2025-01-02", "sku": "SKU202", "sales": 90, "current_stock": 300},
+    {"date": "2025-01-03", "sku": "SKU202", "sales": 100, "current_stock": 300},
+    {"date": "2025-01-04", "sku": "SKU202", "sales": 110, "current_stock": 300},
+    {"date": "2025-01-05", "sku": "SKU202", "sales": 105, "current_stock": 300}
+  ]
+}
